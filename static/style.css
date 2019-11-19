@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+i {
+    text-align: center;
+    font-size: 2rem;
+    padding: 2.5rem;
+    background-color: lightseagreen;
+    margin: .6rem;
+}
+
+.blue {
+    background-color: aquamarine;
+}
+
+#back-to-main-menu {
+    padding: 5rem;
+    margin: 5rem auto;
+}
+
+#back-to-main-menu a {
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+}
